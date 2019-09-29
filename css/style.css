@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+
+h1{align-content: center;
+   
+   font-size: large;
+   
+   font-style: italic;
+   
+   color: white;
+   
+   text-align: center;
+
+   text-size: x-large;
+   text-decoration: underline;
+}
+   
+
+
+p{font-size: large ;
+  
+  font-style: italic;
+  
+  text-align: center;
+  
+  font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+  
+  color: white;
+}
+
+
+
+body{background-color: black;}
+
+
+
+header{text-align: center;
+}
+
+
+ol{color: white;
+   
+   text-align: ;
+   
+   font-size: x-large;}
+
+
+ul{text-align: ;
+   
+   color: white;
+   
+   background-color: ;
+}
+
+dl{ text-align: center;
+    color: white;}
+
+dt{ text-align: center;
+    color: color;}
+
+dd{ text-align: center;
+    color: color;}
+
+
+
+main{background-color: ;
+}
+
+
+
+nav{}
+
+
+
+
+footer{
+       
+        text-align: center;
+       
+        background-color: gray;
+
+        float: center
+}
+
+img{ align-content: center;
+}
